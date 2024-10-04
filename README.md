@@ -2,7 +2,7 @@
 This a Demo for Git &amp; Github class.
 
 # Arnab
-Arnab banchod
+Arnab 
 
 # Student
 Saikat Kole
